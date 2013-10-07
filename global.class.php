@@ -39,6 +39,12 @@ class GlobalClass
         return $args1 + $args2 ;
 	}
 
+
+        public function func_uttam()
+	{
+		print "This is SPAAAAAARTA";		
+	}
+
 }
 
 ?>
