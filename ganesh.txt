@@ -1,3 +1,5 @@
 This is teting for github on technova3
 
-adding Lorem ipsum to good control on basic commands
+adding Lorem ipsum to good control on. => This line is edited by prachi.
+
+This line is added by prachi.
