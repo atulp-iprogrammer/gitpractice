@@ -25,3 +25,6 @@ git push origin master //master - default ------- This command to push changes t
 git pull origin master  //Pull changes to local from repo.
 
 
+git add // Add changes again.
+
+
