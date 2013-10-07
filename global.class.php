@@ -14,7 +14,11 @@ class GlobalClass
 		print $args;
 	}
 
-
+    public function func_prachi($args)
+    {
+        print "This is called by Prachi";
+        print $args;
+    }
 
 }
 

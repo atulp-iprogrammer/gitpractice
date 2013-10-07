@@ -6,4 +6,7 @@ $objGlobal = new GlobalClass();
 
 $varArg = "Calling Function";
 $objGlobal->func_yogesh($varArg);
+
+$varArg = "Calling New Function";
+$objGlobal->func_prachi($varArg);
 ?>
