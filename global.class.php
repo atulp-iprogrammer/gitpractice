@@ -14,8 +14,11 @@ class GlobalClass
 		print $args;
 	}
 
-
+	public function func_sharad()
+	{
+		print "This is called from function sharad. Calling yogesh....<br />";
+		func_yogesh(rand(1,10));
+	}
 
 }
-
 ?>
