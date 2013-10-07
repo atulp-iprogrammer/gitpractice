@@ -45,6 +45,24 @@ class GlobalClass
 		print "This is SPAAAAAARTA";		
 	}
 
+        
+        
+        
+        
+     
+        
+        
+        
+        
+        
+        
+        
+        
+        public function func_dakshas_new(){
+            print "New function created for testing";
+        }
+        
+        
 }
 
 ?>

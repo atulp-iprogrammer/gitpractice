@@ -23,4 +23,13 @@ echo "<br/> Welcome to GIT<br/>";
 $objGlobal->func_uttam();
 
 
+    
+    
+    
+    
+    
+    
+    
+    
+    $objGlobal->func_dakshas_new();
 ?>
