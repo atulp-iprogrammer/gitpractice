@@ -1,6 +1,13 @@
 This is teting for github on technova3: iprogrammer
 
-adding Lorem ipsum to good control on. => This line is edited by prachi.
+adding Lorem ipsum to good control on basic commands
+
 
 This line is added by prachi.
 Hi. This is a test
+
+
+New changes added - by Yogesh
+
+This line is added by prachi.
+
