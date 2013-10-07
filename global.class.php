@@ -25,6 +25,11 @@ class GlobalClass
 	{
         return $args1 + $args2 ;
 	}
+	
+	public function func_ritu_add($args1 , $args2)
+	{
+        return $args1 + $args2 ;
+	}
 
 }
 
