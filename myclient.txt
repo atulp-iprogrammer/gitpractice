@@ -1,1 +1,1 @@
-THis is my client test file. Edited from master.
+This is client test file.
