@@ -15,6 +15,13 @@ class GlobalClass
 	}
 
 
+	public function func_mithun_add($args1 , $args2)
+	{
+        return $args1 + $args2 ;
+	}
+
+    
+    
 
 }
 
