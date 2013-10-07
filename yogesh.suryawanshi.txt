@@ -1,3 +1,30 @@
 This is just a first test for git.
 
-git init
+git init //Command in a folder where actual repository is located to initialize the git
+
+git add . //add current folders files to git
+
+get status //list of files needs to be add
+
+git commit -m "comment" //commit files
+
+git config --global user.email "email id"
+
+git config --global user.name "your name"
+
+git //list all the commands on command line
+
+
+
+git remote add original git@github.com:atulp-iprogrammer/gitpractice.git  //add the other repo
+
+git remove -v // display origin -- long url
+
+git push origin master //master - default ------- This command to push changes to repo. --- may give error if changes are not updated
+
+git pull origin master  //Pull changes to local from repo.
+
+
+git add // Add changes again.
+
+

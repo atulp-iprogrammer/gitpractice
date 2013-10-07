@@ -1,5 +1,15 @@
 This is teting for github on technova3
+Modified by Daksha
 
 adding Lorem ipsum to good control on basic commands
 
+New changes added - by Yogesh
+
+This line is added by prachi.
+
+<<<<<<< HEAD
+adding Lorem ipsum to good control on basic commands
+
 adding new text for conflict.
+=======
+>>>>>>> 4c8330a338e9b8d92fc4e27d932c6a1c4cbf1130
