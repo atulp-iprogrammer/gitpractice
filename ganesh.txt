@@ -1,14 +1,11 @@
-<<<<<<< HEAD
-This is teting for github on technova3: iprogrammer
+
+
+This is teting for github on technova3 mithun
 
 adding Lorem ipsum to good control on basic commands
 
+this is added by mithun
 
-This line is added by prachi.
-Hi. This is a test
-
-
-=======
 This is teting for github on technova3
 Modified by Daksha
 
@@ -19,9 +16,14 @@ adding Lorem ipsum to good control on. => This line is edited by prachi.
 
 adding Lorem ipsum to good control on basic commands
 
->>>>>>> a2eb50381166b00d174ace5105bb512ca88b643c
 New changes added - by Yogesh
 
 This line is added by prachi.
 
+
+This is line added by Atul
+adding Lorem ipsum to good control on basic commands
+
+
+Hi Ganesh
 
