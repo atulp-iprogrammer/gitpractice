@@ -1,2 +1,0 @@
-this is my first git practice
-this is service method for git file
