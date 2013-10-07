@@ -15,9 +15,15 @@ class GlobalClass
 	}
 
 
+
     public function func_dakshas()
     {
         print "This function is created by Daksha";
+
+    public function pramod_rupesh()
+    {
+		print "This is called from Pramod Rupesh";
+		print $args;
     }
 
     public function func_prachi($args)
