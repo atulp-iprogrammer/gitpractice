@@ -61,7 +61,11 @@ class GlobalClass
 	}
 
         
-        
+        public function func_bug1()
+	{
+		print "This is bug1 from SPAAAAAARTA";
+
+	}
         
         
      

@@ -31,7 +31,8 @@ echo "<br/> Good Night Now.<br/>";
 $objGlobal->ganesh_test();
     
     
-    
+echo "<br/> Ok bye Good Night SD.<br/>";
+$objGlobal->func_bug1();    
     
     
     
