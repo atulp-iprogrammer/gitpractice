@@ -1,2 +1,7 @@
+
 *.rtf
+
+
+*.bak
+configuration.php
 
