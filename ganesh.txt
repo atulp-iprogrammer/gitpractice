@@ -1,2 +1,4 @@
 This is teting for github on technova3
 Modified by Daksha
+
+adding Lorem ipsum to good control on basic commands
