@@ -14,7 +14,10 @@ class GlobalClass
 		print $args;
 	}
 
-
+    public function func_dakshas()
+    {
+        print "This function is created by Daksha";
+    }
 
 }
 
