@@ -23,4 +23,8 @@ echo "<br/> Welcome to GIT<br/>";
 $objGlobal->func_uttam();
 
 
+echo "<br/> Good Night Now.<br/>";
+$objGlobal->ganesh_test();
+
+
 ?>

@@ -44,6 +44,10 @@ class GlobalClass
 	{
 		print "This is SPAAAAAARTA";		
 	}
+	public function ganesh_test()
+	{
+		echo "this is ganesh testing on global";
+	}
 
 }
 
