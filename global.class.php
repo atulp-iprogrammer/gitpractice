@@ -14,6 +14,18 @@ class GlobalClass
 		print $args;
 	}
 
+
+
+    public function func_dakshas()
+    {
+        print "This function is created by Daksha";
+
+    public function pramod_rupesh()
+    {
+		print "This is called from Pramod Rupesh";
+		print $args;
+    }
+
     public function func_prachi($args)
     {
         print "This is called by Prachi";
@@ -21,9 +33,16 @@ class GlobalClass
     }
 
 
+
 	public function func_mithun_add($args1 , $args2)
 	{
         return $args1 + $args2 ;
+	}
+
+
+        public function func_uttam()
+	{
+		print "This is SPAAAAAARTA";		
 	}
 
 }
