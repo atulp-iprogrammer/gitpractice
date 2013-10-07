@@ -1,0 +1,3 @@
+This is just a first test for git.
+
+git init
