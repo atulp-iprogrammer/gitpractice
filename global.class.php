@@ -19,6 +19,12 @@ class GlobalClass
 		print "This is called from function sharad. Calling yogesh....<br />";
 		func_yogesh(rand(1,10));
 	}
+
+
+    public function func_dakshas()
+    {
+        print "This function is created by Daksha";
+	}
     public function pramod_rupesh()
     {
 		print "This is called from Pramod Rupesh";
@@ -30,6 +36,7 @@ class GlobalClass
         print "This is called by Prachi";
         print $args;
     }
+
 
 
 	public function func_mithun_add($args1 , $args2)
