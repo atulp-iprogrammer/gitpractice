@@ -9,4 +9,8 @@ $objGlobal->func_yogesh($varArg);
 
 $varArg = "Calling New Function";
 $objGlobal->func_prachi($varArg);
+
+echo "<br/> Adding 10 and 20 <br/>";
+echo $objGlobal->func_mithun_add(20,10);
+
 ?>
